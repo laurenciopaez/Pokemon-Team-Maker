@@ -1,0 +1,56 @@
+.pageWrapper {
+    position: relative;
+  }
+  
+  .backgroundImage_register {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    /* height: 100vh; */
+    z-index: -1;
+    background-image: url('../utils/wallpaper_register.jpg');
+    background-size: contain;
+    /* filter: blur(5px); */ /* Ajusta el valor del desenfoque según tus necesidades */
+    opacity: 1; /* Ajusta la opacidad según tus necesidades */
+  }
+
+  .backgroundImage_login {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    /* height: 100vh; */
+    z-index: -1;
+    background-image: url('../utils/wallpaper_login.jpg');
+    background-size: contain;
+    /* filter: blur(5px); */ /* Ajusta el valor del desenfoque según tus necesidades */
+    opacity: 1; /* Ajusta la opacidad según tus necesidades */
+  }
+
+  .backgroundImage_main {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    /* height: 100vh; */
+    z-index: -1;
+    background-image: url('../utils/wallpaper_main.jpg');
+    background-size: contain;
+    /* filter: blur(5px); */ /* Ajusta el valor del desenfoque según tus necesidades */
+    opacity: 1; /* Ajusta la opacidad según tus necesidades */
+  }
+
+  
+  .backgroundImage_allopts {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    /* height: 100vh; */
+    z-index: -1;
+    background-image: url('../utils/wallpaper_allopts.jpg');
+    background-size: contain;
+    /* filter: blur(5px); */ /* Ajusta el valor del desenfoque según tus necesidades */
+    opacity: 1; /* Ajusta la opacidad según tus necesidades */
+  }

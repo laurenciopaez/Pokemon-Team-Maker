@@ -1,0 +1,40 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "username": "laurencio123",
+      "password": "1234",
+      "email": "laurencio@gmail.com",
+      "pokemones_fav": [
+        {
+          "id": 6,
+          "name": "charizard",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/6.svg"
+        },
+        {
+          "id": 309,
+          "name": "electrike",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/309.svg"
+        },
+        {
+          "id": 306,
+          "name": "aggron",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/306.svg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "username": "prueba22",
+      "password": "123",
+      "email": "prueba22@gmail.com",
+      "pokemones_fav": [
+        {
+          "id": 25,
+          "name": "pikachu",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/25.svg"
+        }
+      ]
+    }
+  ]
+}
