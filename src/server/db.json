@@ -7,19 +7,9 @@
       "email": "laurencio@gmail.com",
       "pokemones_fav": [
         {
-          "id": 6,
-          "name": "charizard",
-          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/6.svg"
-        },
-        {
-          "id": 309,
-          "name": "electrike",
-          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/309.svg"
-        },
-        {
-          "id": 306,
-          "name": "aggron",
-          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/306.svg"
+          "id": 257,
+          "name": "blaziken",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/257.svg"
         }
       ]
     },
