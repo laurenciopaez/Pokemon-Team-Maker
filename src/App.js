@@ -15,7 +15,7 @@ class App extends React.Component {
     <Routes>
       <Route path='/main' element={<Main/>} />
       <Route path='/allopts' element={<AllOpt/>} />  
-      <Route path='/login' element={<Login/>}/>
+      <Route path='/' element={<Login/>}/>
       <Route path='/register' element={<Register/>}/>
     </Routes>
     </Provider>
